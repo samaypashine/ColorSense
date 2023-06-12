@@ -1,0 +1,4 @@
+opencv-python==4.7.0.72
+mediapipe==0.8.2
+numpy==1.19.3
+webcolors==1.11.1
