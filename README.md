@@ -16,8 +16,11 @@ ColorSense is a project that leverages finger detection, point projection, and K
 5. Real-time analysis: The multi-threading and multi-processing techniques ensure that the color recognition process is efficient and operates in real-time.
 
 ## Requirements
-1. Python3 (3.6.9)
-2. Run `pip3 install -r requirements.txt`
+1. Python (3.6.9)
+2. OpenCV (4.7.0.72)
+3. Mediapipe (0.8.2)
+4. Numpy (1.19.3)
+5. Webcolors (1.11.1)
 
 ## Installation and Usage
 To use ColorSense, follow these steps:
